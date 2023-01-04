@@ -1,6 +1,6 @@
 "use strict";
 
-const countDownDate = new Date("jan 01, 2023 00:00:00").getTime();
+const countDownDate = new Date("jan 1, 2024 00:00:00").getTime();
 
 const x = setInterval(function () {
     const now = new Date().getTime();
